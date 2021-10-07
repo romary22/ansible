@@ -1,4 +1,7 @@
 # ansible
+
+*Read this in other languages: [English](README.md), [French](README.fr.md)
+
 Some plugins for ansible
  - dzdo su : when you must substitute user with dzdo su to launch commands
    Example : I want to execute the command : docker ps, but my user hasn't the right to do so.
